@@ -1,6 +1,35 @@
 ﻿<Properties StartupConfiguration="{C01C2887-CDF3-4363-80CB-F26513627777}|Default">
-  <MonoDevelop.Ide.ItemProperties.TheSandwichSpot.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TheSandwichSpot.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheSandwichSpot/Models/User.cs">
+    <Files>
+      <File FileName="TheSandwichSpot/AssemblyInfo.cs" Line="6" Column="54" />
+      <File FileName="TheSandwichSpot.Android/MainActivity.cs" Line="24" Column="80" />
+      <File FileName="TheSandwichSpot.iOS/AppDelegate.cs" Line="26" Column="56" />
+      <File FileName="TheSandwichSpot/Models/User.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheSandwichSpot" expanded="True">
+            <Node name="TheSandwichSpot" expanded="True">
+              <Node name="Fonts" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TheSandwichSpot.Android" expanded="True" />
+            <Node name="TheSandwichSpot.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TheSandwichSpot FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TheSandwichSpot.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
