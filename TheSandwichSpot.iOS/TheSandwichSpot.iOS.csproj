@@ -133,4 +133,24 @@
       <Name>TheSandwichSpot</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\add.png" />
+    <BundleResource Include="Resources\arrow.png" />
+    <BundleResource Include="Resources\dessert.png" />
+    <BundleResource Include="Resources\drinks.png" />
+    <BundleResource Include="Resources\emptyheart.png" />
+    <BundleResource Include="Resources\hamburgerMenu.png" />
+    <BundleResource Include="Resources\heart.png" />
+    <BundleResource Include="Resources\hookah.png" />
+    <BundleResource Include="Resources\more.png" />
+    <BundleResource Include="Resources\order.png" />
+    <BundleResource Include="Resources\sand19.jpg" />
+    <BundleResource Include="Resources\sand23.png" />
+    <BundleResource Include="Resources\sand24.jpg" />
+    <BundleResource Include="Resources\sand25.jpg" />
+    <BundleResource Include="Resources\sand26.jpg" />
+    <BundleResource Include="Resources\sandwich.png" />
+    <BundleResource Include="Resources\star.png" />
+    <BundleResource Include="Resources\tritip.jpg" />
+  </ItemGroup>
 </Project>
