@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DemoApp.Helpers
+namespace TheSandwichSpot.Helpers
 {
 	static class IconFont
 	{

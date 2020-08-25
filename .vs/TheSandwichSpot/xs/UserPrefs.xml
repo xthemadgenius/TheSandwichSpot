@@ -5,7 +5,7 @@
       <File FileName="TheSandwichSpot/AssemblyInfo.cs" Line="6" Column="54" />
       <File FileName="TheSandwichSpot.Android/MainActivity.cs" Line="24" Column="80" />
       <File FileName="TheSandwichSpot.iOS/AppDelegate.cs" Line="26" Column="56" />
-      <File FileName="TheSandwichSpot/Models/User.cs" Line="1" Column="1" />
+      <File FileName="TheSandwichSpot/Models/User.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +13,11 @@
           <Node name="TheSandwichSpot" expanded="True">
             <Node name="TheSandwichSpot" expanded="True">
               <Node name="Fonts" expanded="True" />
+              <Node name="Helpers" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="User.cs" selected="True" />
               </Node>
+              <Node name="Services" expanded="True" />
             </Node>
             <Node name="TheSandwichSpot.Android" expanded="True" />
             <Node name="TheSandwichSpot.iOS" expanded="True" />
