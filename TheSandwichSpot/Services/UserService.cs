@@ -38,5 +38,13 @@ namespace TheSandwichSpot.Services
                 return false;
             }
         }
+
+        public async Task<bool> LoginUser(string uname, string password)
+        {
+            var user = (await client.Child("Users")
+                .OnceAsync<User>()).Where(u => u.Object.Username == uname)
+                .Where(u => u.Object.Password == password).FirstOrDefault();
+            return (user != null);
+        }
     }
 }

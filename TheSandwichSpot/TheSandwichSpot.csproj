@@ -24,5 +24,6 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Fonts\" />
     <Folder Include="Helpers\" />
+    <Folder Include="Img\" />
   </ItemGroup>
 </Project>
