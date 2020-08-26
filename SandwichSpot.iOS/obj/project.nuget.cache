@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlTiBbwRF9NdcctGZBu7Zb7T+EI39i/dYxcgJ4o1y9K2x1jUYVNo7RUwu1/M3ojEV1WIHQ999dwMGEGK1GcmnA==",
+  "success": true,
+  "projectFilePath": "/Users/javierjcalderonjr/Projects/SandwichSpot/SandwichSpot.iOS/SandwichSpot.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/javierjcalderonjr/.nuget/packages/firebasedatabase.net/4.0.4/firebasedatabase.net.4.0.4.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/litedb/4.1.4/litedb.4.1.4.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/xamarin.forms.pancakeview/2.1.0.714/xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/xamarin.forms.visual.material/4.8.0.1269/xamarin.forms.visual.material.4.8.0.1269.nupkg.sha512",
+    "/Users/javierjcalderonjr/.nuget/packages/xamarin.ios.materialcomponents/92.0.0/xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
