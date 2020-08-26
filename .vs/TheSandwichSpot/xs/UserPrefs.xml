@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{C01C2887-CDF3-4363-80CB-F26513627777}|Default">
   <MonoDevelop.Ide.ItemProperties.TheSandwichSpot.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheSandwichSpot/Models/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheSandwichSpot/Views/LoginView.xaml">
     <Files>
-      <File FileName="TheSandwichSpot/AssemblyInfo.cs" Line="6" Column="54" />
-      <File FileName="TheSandwichSpot.Android/MainActivity.cs" Line="24" Column="80" />
-      <File FileName="TheSandwichSpot.iOS/AppDelegate.cs" Line="26" Column="56" />
-      <File FileName="TheSandwichSpot/Models/User.cs" Line="10" Column="1" />
+      <File FileName="TheSandwichSpot/Views/LoginView.xaml" Line="4" Column="56" />
+      <File FileName="TheSandwichSpot/Views/LoginView.xaml.cs" Line="1" Column="1" />
+      <File FileName="TheSandwichSpot/Helpers/IconFont.cs" Line="2" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,12 +13,15 @@
             <Node name="TheSandwichSpot" expanded="True">
               <Node name="Fonts" expanded="True" />
               <Node name="Helpers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="User.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LoginView.xaml" expanded="True" selected="True" />
               </Node>
-              <Node name="Services" expanded="True" />
             </Node>
-            <Node name="TheSandwichSpot.Android" expanded="True" />
+            <Node name="TheSandwichSpot.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
             <Node name="TheSandwichSpot.iOS" expanded="True" />
           </Node>
         </State>
