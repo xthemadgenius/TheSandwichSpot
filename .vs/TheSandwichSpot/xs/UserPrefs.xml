@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{C01C2887-CDF3-4363-80CB-F26513627777}|Default">
   <MonoDevelop.Ide.ItemProperties.TheSandwichSpot.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheSandwichSpot/Views/LoginView.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheSandwichSpot/Services/UserService.cs">
     <Files>
-      <File FileName="TheSandwichSpot/Views/LoginView.xaml" Line="4" Column="56" />
-      <File FileName="TheSandwichSpot/Views/LoginView.xaml.cs" Line="1" Column="1" />
-      <File FileName="TheSandwichSpot/Helpers/IconFont.cs" Line="2" Column="26" />
+      <File FileName="TheSandwichSpot/Views/LoginView.xaml.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="TheSandwichSpot/Views/LoginView.xaml" Line="23" Column="63" />
+      <File FileName="TheSandwichSpot/Models/User.cs" Line="10" Column="1" />
+      <File FileName="TheSandwichSpot/Services/UserService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,14 +14,16 @@
             <Node name="TheSandwichSpot" expanded="True">
               <Node name="Fonts" expanded="True" />
               <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="UserService.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="LoginView.xaml" expanded="True" selected="True" />
+                <Node name="LoginView.xaml" expanded="True" />
               </Node>
             </Node>
             <Node name="TheSandwichSpot.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-              </Node>
+              <Node name="Resources" expanded="True" />
             </Node>
             <Node name="TheSandwichSpot.iOS" expanded="True" />
           </Node>
